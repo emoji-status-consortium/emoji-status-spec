@@ -1,16 +1,16 @@
 ## Informational
 
 | Status Code   | Message                         | Emoji |
-| ------------- | -------------                   | ----- |
+| ------------- | -------------                   |:-----:|
 | 100           | Continue                        |       |
 | 101           | Switching Protocols             |       |
-| 102           | Processing                      |       |
+| 102           | Processing                      |   ⏳   |
 
 ## Success
 
 | Status Code   | Message                         | Emoji |
-| ------------- | -------------                   | ----- |
-| 200           | OK                              |       |
+| ------------- | -------------                   |:-----:|
+| 200           | OK                              |   👌  |
 | 201           | Created                         |       |
 | 202           | Accepted                        |       |
 | 203           | Non-Authoritative Information   |       |
@@ -24,11 +24,11 @@
 ## Redirection
 
 | Status Code   | Message                         | Emoji |
-| ------------- | -------------                   | ----- |
+| ------------- | -------------                   |:-----:|
 | 300           | Multiple Choices                |       |
 | 301           | Moved Permanently               |       |
 | 302           | Found                           |       |
-| 303           | See Other                       |       |
+| 303           | See Other                       |  👀   |
 | 304           | Not Modified                    |       |
 | 305           | Use Proxy                       |       |
 | 306           | Switch Proxy                    |       |
@@ -39,14 +39,14 @@
 ## Client Error
 
 | Status Code   | Message                         | Emoji |
-| ------------- | -------------                   | ----- |
+| ------------- | -------------                   |:-----:|
 | 400           | Bad Request                     |       |
-| 401           | Unauthorized                    |       |
-| 402           | Payment Required                |       |
+| 401           | Unauthorized                    |   ⛔  |
+| 402           | Payment Required                |   💸  |
 | 403           | Forbidden                       |       |
 | 404           | Not Found                       |       |
 | 405           | Method Not Allowed              |       |
-| 406           | Not Acceptable                  |       |
+| 406           | Not Acceptable                  |   🍋  |
 | 407           | Proxy Authentication Required   |       |
 | 408           | Request Timeout                 |       |
 | 409           | Conflict                        |       |
@@ -58,7 +58,7 @@
 | 415           | Unsupported Media Type          |       |
 | 416           | Range Not Satisfiable           |       |
 | 417           | Expectation Failed              |       |
-| 418           | I'm a teapot                    |       |
+| 418           | I'm a teapot                    |   🍵  |
 | 421           | Misdirected Request             |       |
 | 422           | Unprocessable Entity            |       |
 | 423           | Locked                          |       |
@@ -67,7 +67,7 @@
 | 428           | Precondition Failed             |       |
 | 429           | Too Many Requests               |       |
 | 431           | Request Header Fields Too Large |       |
-| 451           | Unavailable For Legal Reasons   |       |
+| 451           | Unavailable For Legal Reasons   |   🙊  |
 ## Server Error
 
 | Status Code   | Message                         | Emoji |
