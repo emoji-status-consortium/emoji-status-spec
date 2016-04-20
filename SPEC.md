@@ -71,7 +71,7 @@
 ## Server Error
 
 | Status Code   | Message                         | Emoji |
-| ------------- | -------------                   | ----- |
+| ------------- | -------------                   |:-----:|
 | 500           | Internal Server Error           |       |
 | 501           | Not Implemented                 |  🚧   |
 | 502           | Bad Gateway                     |       |
