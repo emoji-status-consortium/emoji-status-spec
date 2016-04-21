@@ -49,7 +49,7 @@
 | 406           | Not Acceptable                  |   🍋  |
 | 407           | Proxy Authentication Required   |       |
 | 408           | Request Timeout                 |   💤  |
-| 409           | Conflict                        |       |
+| 409           | Conflict                        |  ⚔️   |
 | 410           | Gone                            |  💨   |
 | 411           | Length Required                 |       |
 | 412           | Precondition Failed             |       |
