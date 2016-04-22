@@ -25,7 +25,7 @@
 
 | Status Code   | Message                         | Emoji |
 | ------------- | -------------                   |:-----:|
-| 300           | Multiple Choices                |       |
+| 300           | Multiple Choices                |  🔱   |
 | 301           | Moved Permanently               |       |
 | 302           | Found                           |       |
 | 303           | See Other                       |  👀   |
