@@ -48,7 +48,7 @@
 | 405           | Method Not Allowed              |       |
 | 406           | Not Acceptable                  |   🍋  |
 | 407           | Proxy Authentication Required   |       |
-| 408           | Request Timeout                 |       |
+| 408           | Request Timeout                 |   💤  |
 | 409           | Conflict                        |       |
 | 410           | Gone                            |  💨   |
 | 411           | Length Required                 |       |
@@ -71,7 +71,7 @@
 ## Server Error
 
 | Status Code   | Message                         | Emoji |
-| ------------- | -------------                   | ----- |
+| ------------- | -------------                   |:-----:|
 | 500           | Internal Server Error           |  🔥   |
 | 501           | Not Implemented                 |  🚧   |
 | 502           | Bad Gateway                     |       |
