@@ -51,7 +51,7 @@
 | 408           | Request Timeout                 |   💤  |
 | 409           | Conflict                        |  ⚔️   |
 | 410           | Gone                            |  💨   |
-| 411           | Length Required                 |       |
+| 411           | Length Required                 |  📏   |
 | 412           | Precondition Failed             |       |
 | 413           | Payload Too Large               |       |
 | 414           | URI Too Long                    |       |
