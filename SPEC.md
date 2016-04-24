@@ -49,7 +49,7 @@
 | 406           | Not Acceptable                  | 🍋       | LEMON (U+1F34B)                                              |
 | 407           | Proxy Authentication Required   |         |                                                              |
 | 408           | Request Timeout                 | 💤       | SLEEPING SYMBOL (U+1F4A4)                                    |
-| 409           | Conflict                        | ⚔️       |                                                              |
+| 409           | Conflict                        | ⚔️       | CROSSED SWORDS (U+2649)                                  |
 | 410           | Gone                            | 💨       | DASH SYMBOL (U+1F4A8)                                        |
 | 411           | Length Required                 | 📏       | STRAIGHT RULER (U+1F4CF)                                     |
 | 412           | Precondition Failed             |         |                                                              |
