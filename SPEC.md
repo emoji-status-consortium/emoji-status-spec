@@ -25,7 +25,7 @@
 
 | Status Code   | Message                         | Emoji   | Name                                                         |
 | ------------- | -------------                   | :-----: | -----------------------------------------------------------  |
-| 300           | Multiple Choices                |         |                                                              |
+| 300           | Multiple Choices                | 🔠       | INPUT SYMBOL FOR LATIN CAPITAL LETTERS (U+1F520)             |
 | 301           | Moved Permanently               |         |                                                              |
 | 302           | Found                           |         |                                                              |
 | 303           | See Other                       | 👀       | EYES (U+1F440)                                               |
