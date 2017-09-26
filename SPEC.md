@@ -10,7 +10,7 @@
 
 | Status Code   | Message                         | Emoji   | Name                                                         |
 | ------------- | -------------                   | :-----: | ----------------------------------------------------------- |
-| 200           | OK                              | 👌       | OK HAND SIGN (U+1F44C)                                       |
+| 200           | OK                              |         |                                                              |
 | 201           | Created                         |         |                                                              |
 | 202           | Accepted                        |         |                                                              |
 | 203           | Non-Authoritative Information   |         |                                                              |
