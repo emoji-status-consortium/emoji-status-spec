@@ -40,7 +40,7 @@
 
 | Status Code   | Message                         | Emoji   | Name                                                         |
 | ------------- | -------------                   | :-----: | -----------------------------------------------------------  |
-| 400           | Bad Request                     |         |                                                              |
+| 400           | Bad Request                     | ⁉       | EXCLAMATION QUESTION MARK (U+2049)                            |
 | 401           | Unauthorized                    | ⛔       | NO ENTRY (U+26D4)                                            |
 | 402           | Payment Required                | 💸       | MONEY WITH WINGS (U+1F4B8)                                   |
 | 403           | Forbidden                       |         |                                                              |
