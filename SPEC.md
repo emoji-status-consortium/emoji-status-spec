@@ -12,7 +12,7 @@
 | ------------- | -------------                   | :-----: | ----------------------------------------------------------- |
 | 200           | OK                              | 👌       | OK HAND SIGN (U+1F44C)                                       |
 | 201           | Created                         |         |                                                              |
-| 202           | Accepted                        |         |                                                              |
+| 202           | Accepted                        | ✔       | HEAVY CHECK MARK (U+2714)                                    |
 | 203           | Non-Authoritative Information   |         |                                                              |
 | 204           | No Content                      |         |                                                              |
 | 205           | Reset Content                   |         |                                                              |
